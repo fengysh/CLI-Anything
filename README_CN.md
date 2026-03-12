@@ -183,7 +183,7 @@ cp CLI-Anything/cli-anything-plugin/HARNESS.md .opencode/commands/
 </details>
 
 <details>
-<summary><h4 id="-codex">⚡ Codex</h4></summary>
+<summary><h4 id="-codex">⚡ Codex <sup><code>实验性</code></sup> <sup><code>社区贡献</code></sup></h4></summary>
 
 **第一步：安装 Skill**
 
